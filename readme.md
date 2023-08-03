@@ -1,5 +1,5 @@
-# Zeta-privacy-policy
-## By using Zeta you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+# zyden-privacy-policy
+## By using zyden you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
@@ -34,7 +34,7 @@
 #### You can reach us by the following methods:
 - Join our [Support Server](https://dsc.gg/mystic-hq) on discord
 - Contact me on discord [Zeta bots](https://dsc.gg/mystic-hq)
-- Server invite invalid or channels locked ? You can contact me via my instagram acc piyush_kanyal_02
+- Server invite invalid or channels locked ? You can contact me via my gamil contact me nathuahir300@gmail.com
 
 ## 5. How can we delete our entire data?
 
